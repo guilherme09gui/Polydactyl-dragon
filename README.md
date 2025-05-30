@@ -1,1 +1,1 @@
-# Polydactyl-dragon
+O projeto "Quente-Frio" é um jogo simples e divertido criado usando a biblioteca p5.js, que ajuda na criação de gráficos e interações visuais em JavaScript. Nesse jogo, o objetivo principal é o jogador tentar adivinhar a localização de um ponto secreto dentro de um espaço limitado, como uma tela de 400x400 pixels. A cada tentativa, o jogo informa se a posição do clique está "quente" ou "fria" em relação à posição secreta.
